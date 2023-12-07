@@ -1,0 +1,32 @@
+/* TaskList.css */
+.task-list {
+    /* background-color: #f8f9fa; */
+    /* border: 1px solid #ced4da; */
+    border-radius: 4px;
+    margin: 8px;
+    padding: 10px;
+    width: 24%;
+    padding-top: 0;
+  }
+  
+  .header {
+    color: #495057;
+    font-size: 16px;
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #ced4da;
+  }
+
+  .button {
+    background-color: #fff;
+    /* border: 1px solid #ddd; */
+    border-radius: 4px;
+    margin-bottom: 8px;
+    padding: 12px;
+    cursor: grab;
+    user-select: none;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+  }
+  

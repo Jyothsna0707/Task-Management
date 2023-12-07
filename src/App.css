@@ -1,0 +1,14 @@
+/* App.css */
+.app {
+  /* text-align: center; */
+  background-color: #eee5;
+  /* width: 100vw; */
+  /* height: 100vh; */
+  min-height: 100vh;
+}
+
+h2 {
+  text-align: center;
+  margin: 0;
+  padding: 10px;
+}

@@ -1,0 +1,21 @@
+/* Task.css */
+.task-item {
+    background-color: #fff;
+    /* border: 1px solid #ddd; */
+    border-radius: 4px;
+    margin-bottom: 8px;
+    padding: 12px;
+    cursor: grab;
+    user-select: none;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  #content {
+    position: relative;
+}
+#content img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+  

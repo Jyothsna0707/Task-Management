@@ -1,0 +1,30 @@
+/* SearchComponent.css */
+.search-container {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+  
+  .search-icon {
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+  }
+  
+  .search-input {
+    /* position: absolute; */
+    top: 0;
+    /* right: 200; */
+    /* left: 100%; */
+    /* width: 0; */
+    padding: 8px;
+    /* transition: width 0.3s ease-in-out; */
+  }
+  
+  .search-container .search-input {
+    width: 200px; /* Adjust the width as needed */
+    margin: 20px;
+    margin-bottom: 0px;
+    margin-left: 40px;
+  }
+  
